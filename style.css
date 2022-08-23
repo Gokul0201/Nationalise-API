@@ -1,0 +1,68 @@
+body{
+    background-color:white;
+    background-image:url(https://freedesignfile.com/upload/2017/01/White-geometric-shapes-backgrounds-vector-set-06.jpg);
+   font-family: 'Times New Roman', Times, serif;
+   text-transform: capitalize;
+   
+}
+h1{
+    padding-bottom: 100px;
+}
+input{
+    padding:15px;
+    width: 200px;
+    border-radius: 8px;
+    margin: 20px;
+    font-size: large;
+    
+    
+}
+button{
+    padding:15px;
+    width: 120px;
+    border-radius: 20px;
+    margin: 5px;
+    
+    font-size: large;
+    border: none;
+    background-color:black;
+    color: white;
+    
+}
+button:hover{
+    cursor: pointer;
+    transition: ease-in-out;
+    background-color: white;
+    color: black;
+}
+div{
+    padding-top: 10px;
+    font-weight: bolder;
+    font-size: large;
+    color:black;
+}
+#name,#name1{
+    padding-right: 15rem;
+    color: red;
+    padding-top: 20px;
+    padding-bottom: 7px;
+    
+    
+}
+
+
+
+#country,#country1{
+    padding-right: 16rem;
+    color:orangered;
+    padding-bottom: 7px;
+    
+}
+
+#probability,#probability1{
+    padding-right: 7rem;
+    color: rgb(207, 22, 81);
+    padding-bottom: 7px;
+   
+}
+
